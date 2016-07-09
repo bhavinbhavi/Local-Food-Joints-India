@@ -1,0 +1,2 @@
+# local_food_joints_india.csv
+This is an open source project to collect local food joint details that every one can  prefer during travel across India. All you have to do is when ever you or your friend come across a small hotel which is worth in taste and quality please update this csv file in the specified format. We prefer Hotel to be small. The aim of this project is to help the people who run hotels  in villages which is near by highways and to have an additional income.
